@@ -765,3 +765,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.07-05.25.09:243][204]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.07-05.25.09:243][204]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.11.07-05.25.09:243][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.07-05.27.39:102][845]LogActorFactory: Actor Factory created Cone
+[2020.11.07-05.27.41:327][935]LogActorFactory: Actor Factory created Cone
+[2020.11.07-05.29.53:214][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.07-05.30.16:166][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.07-05.30.55:120][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.07-05.30.55:203][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.07-05.30.55:305][310]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMapF3A8117A43F889FC9C3DC9BBF3541DC9.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.07-05.30.55:385][310]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.211
+[2020.11.07-05.30.56:222][310]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap_BuiltData6BB4CDF7489A0F6F282180A53E07321E.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.07-05.30.56:288][310]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.07-05.30.56:289][310]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.07-05.30.56:289][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
