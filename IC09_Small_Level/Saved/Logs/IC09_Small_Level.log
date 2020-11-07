@@ -705,3 +705,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.07-05.08.13:150][551]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.07-05.08.13:150][551]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.11.07-05.08.13:150][551]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.07-05.10.39:697][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.11.07-05.10.41:058][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.07-05.10.57:579][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.11.07-05.11.00:132][857]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2020.11.07-05.11.01:527][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.11.07-05.11.03:134][987]Cmd: EDIT CUT
+[2020.11.07-05.11.03:146][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.07-05.11.03:175][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.07-05.11.03:179][987]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.11.07-05.11.16:957][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Plains_Scrap_Bridge_2)
+[2020.11.07-05.11.32:156][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.11.07-05.11.32:214][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.11.07-05.11.32:285][ 39]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMapCE7DDC4C41F4697CF8ADC6B6E8E205FD.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.07-05.11.32:360][ 39]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.167
+[2020.11.07-05.11.33:190][ 39]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap_BuiltData9CB8581F49BF9EEBD7280EA4DD78DD49.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.07-05.11.33:257][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.07-05.11.33:257][ 39]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.07-05.11.33:258][ 39]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.07-05.12.37:542][478]LogActorFactory: Actor Factory created Cylinder
+[2020.11.07-05.12.38:734][509]LogActorFactory: Actor Factory created Cylinder
+[2020.11.07-05.13.15:924][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.07-05.13.15:989][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.07-05.13.16:090][577]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMapF461477348C0EC07FA967AB0BDF97662.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.07-05.13.16:162][577]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.196
+[2020.11.07-05.13.17:009][577]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap_BuiltData283A6AF14EEFCD29DE009A8ABA8BEC56.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.07-05.13.17:079][577]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.07-05.13.17:079][577]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.07-05.13.17:079][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
