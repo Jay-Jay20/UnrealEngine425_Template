@@ -659,3 +659,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.07-04.45.30:366][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.11.07-04.46.04:080][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
 [2020.11.07-04.46.27:502][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.11.07-04.48.57:483][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.11.07-04.49.20:687][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.11.07-04.49.21:711][174]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bump_StaticMesh)
+[2020.11.07-04.49.23:252][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.11.07-04.49.24:422][289]Cmd: EDIT CUT
+[2020.11.07-04.49.24:452][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.07-04.49.24:479][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.11.07-04.49.24:482][289]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.11.07-04.51.03:961][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.07-04.51.03:975][418]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.07-04.51.04:036][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.07-04.51.04:151][418]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap75A2987E4F72118FE8AC90910ABAA207.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.07-04.51.04:227][418]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.219
+[2020.11.07-04.51.05:174][418]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap_BuiltData045948494D1104CBAF3D37AAD4AD997B.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.07-04.51.05:251][418]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.07-04.51.05:251][418]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.07-04.51.05:252][418]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
