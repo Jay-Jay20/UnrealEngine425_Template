@@ -733,3 +733,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.07-05.13.17:079][577]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.07-05.13.17:079][577]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.11.07-05.13.17:079][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.07-05.14.52:416][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.11.07-05.16.14:941][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.11.07-05.16.15:000][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.07-05.16.15:053][122]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap89A0631D4F4FAFAAEA81C388E761AE41.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.07-05.16.15:100][122]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.119
+[2020.11.07-05.16.15:526][122]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap_BuiltData004334D54F564AB8CE45B689E5214562.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.07-05.16.15:542][122]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.07-05.16.15:542][122]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.07-05.16.15:542][122]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.07-05.16.28:491][355]LogActorFactory: Actor Factory created Plane
+[2020.11.07-05.16.31:940][457]LogActorFactory: Actor Factory created Plane
+[2020.11.07-05.18.33:354][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.07-05.18.37:025][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.11.07-05.18.37:094][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.11.07-05.18.37:188][148]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMapFF5611DA4BCF5A9AE39BF6A71FE6E556.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.07-05.18.37:266][148]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.198
+[2020.11.07-05.18.38:061][148]LogSavePackage: Moving 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Saved/ThirdPersonExampleMap_BuiltDataBD5465A84B9331EE0334E8A6B3883DED.tmp' to 'D:/Unreal/TestGit01/UnrealEngine425_Template/IC09_Small_Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.07-05.18.38:147][148]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.07-05.18.38:147][148]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.07-05.18.38:147][148]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
